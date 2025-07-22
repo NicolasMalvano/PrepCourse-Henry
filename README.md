@@ -1,2 +1,3 @@
-# PrepCourse-Henry
-Repositorio de prueba del curso de Full Stack 
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde github
+a mi escritorio local. 
+
